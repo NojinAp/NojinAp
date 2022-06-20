@@ -3,7 +3,7 @@
 ## :pushpin: Who I Am
 
 * Computer Programming and Analysis student at [Seneca College](https://www.senecacollege.ca/home.html) based In Toronto
-* Passionate in various fields of Computer Programming including Web Development, Software Development and SQL Programming.
+* Passionate in various fields of Computer Programming including Web Development, Software Development and SQL Programming
 
 ## :pushpin: My Goals
 
