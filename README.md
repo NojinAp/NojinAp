@@ -16,7 +16,7 @@
 | Skills        | Languages/Tools
 | ------------- |:-------------:|
 | Web Development        | HTML5, CSS, JavaScript, Node.js, Express.js, React.js
-| Database Management      | OracleSQL, MongoDB
+| Database Management      | OracleSQL, MySql, MongoDB
 | Programming Languages    | C++, C
 | Operating Systems | Windows, Linux/Unix
 | Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku
