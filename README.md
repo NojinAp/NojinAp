@@ -7,9 +7,9 @@
 
 ## :pushpin: My Goals
 
-* Becoming a Full-Stack Developer
-* Learning new programming skills
-* Gaining more work experience
+* Gaining proficiency Full-Stack Development and Data Science
+* Developing Programming Skills
+* Gaining more Work Experience
 
 ## :pushpin: Tools & Languages I Use
   
