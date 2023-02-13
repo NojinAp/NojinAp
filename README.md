@@ -19,7 +19,7 @@
 | Database Management      | OracleSQL, MySql, MongoDB
 | Programming Languages    | C++, C, X++
 | Operating Systems | Windows, Linux/Unix
-| Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Microsoft Azure
+| Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Microsoft Azure, Microsoft Project
 
 ## :pushpin: Contact Me
 
