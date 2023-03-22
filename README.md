@@ -8,7 +8,6 @@
 ## :pushpin: My Goals
 
 * Gaining proficiency in Full-Stack Development and Data Science
-* Developing Programming Skills
 * Gaining more Work Experience
 
 ## :pushpin: Tools & Languages I Use
@@ -18,6 +17,7 @@
 | Web Development        | HTML5, CSS, JavaScript, Node.js, Express.js
 | Database Management      | OracleSQL, MySql, MongoDB
 | Programming Languages    | C++, C, X++
+| Data Science | Pandas, NumPy, Matplotlib, Scikit-learn, Folium
 | Operating Systems | Windows, Linux/Unix
 | Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Microsoft Azure, Microsoft Project
 
