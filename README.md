@@ -19,7 +19,7 @@
 | Programming Languages    | C++, C, X++
 | Data Science | Pandas, NumPy, Matplotlib, Scikit-learn, Folium, Plotly
 | Operating Systems | Windows, Linux/Unix
-| Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Microsoft Azure, Microsoft Project
+| Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Microsoft Azure, Microsoft Project, Jupyter Notebook
 
 ## :pushpin: Contact Me
 
