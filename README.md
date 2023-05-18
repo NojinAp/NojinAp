@@ -15,11 +15,11 @@
 | Skills        | Languages/Tools
 | ------------- |:-------------:|
 | Web Development        | HTML5, CSS, JavaScript, Node.js, Express.js
-| Database Management      | OracleSQL, MySql, MongoDB
+| Database Management      | OracleSQL, MySql, MongoDB, PostgreSQL
 | Programming Languages    | Python, C++, C, X++
 | Data Science | Pandas, NumPy, Matplotlib, Scikit-learn, Folium, Plotly
 | Operating Systems | Windows, Linux/Unix
-| Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Microsoft Azure, Microsoft Project, Jupyter Notebook
+| Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Microsoft Azure, Microsoft Project, Jupyter Notebook, Github
 
 ## :pushpin: Contact Me
 
