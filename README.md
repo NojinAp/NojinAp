@@ -2,7 +2,7 @@
 
 ## :pushpin: Who I Am
 
-* Recent graduate of Computer Programming at [Seneca College](https://www.senecacollege.ca/home.html) based In Toronto
+* Recent graduate of Computer Programming at [Seneca College](https://www.senecacollege.ca/home.html) based in Toronto
 * Passionate in various fields of Computer Science including Software Development and Data Science
 
 ## :pushpin: My Goals
