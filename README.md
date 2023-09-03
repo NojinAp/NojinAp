@@ -2,7 +2,7 @@
 
 ## :pushpin: Who I Am
 
-* Computer Programming student at [Seneca College](https://www.senecacollege.ca/home.html) based In Toronto
+* Recent graduate of Computer Programming at [Seneca College](https://www.senecacollege.ca/home.html) based In Toronto
 * Passionate in various fields of Computer Science including Software Development and Data Science
 
 ## :pushpin: My Goals
@@ -14,10 +14,10 @@
   
 | Skills        | Languages/Tools
 | ------------- |:-------------:|
-| Web Development        | HTML5, CSS, JavaScript, Node.js, Express.js
 | Database Management      | OracleSQL, MySql, MongoDB, PostgreSQL
 | Programming Languages    | Python, C++, C, X++
 | Data Science | Pandas, NumPy, Matplotlib, Scikit-learn, Folium, Plotly
+| Web Development        | HTML5, CSS, JavaScript, Node.js, Express.js
 | Operating Systems | Windows, Linux/Unix
 | Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Microsoft Azure, Microsoft Project, Jupyter Notebook, Github
 
