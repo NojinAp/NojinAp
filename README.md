@@ -7,7 +7,7 @@
 
 ## :pushpin: My Goals
 
-* Gaining proficiency in Full-Stack Development and Data Science
+* Gaining proficiency in Data Science and Data Analytics
 * Gaining more Work Experience
 
 ## :pushpin: Tools & Languages I Use
