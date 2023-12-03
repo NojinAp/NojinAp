@@ -3,7 +3,7 @@
 ## :pushpin: Who I Am
 
 * Recent graduate of Computer Programming at [Seneca College](https://www.senecacollege.ca/home.html) based in Toronto
-* Passionate in various fields of Computer Science including Software Development and Data Science
+* Passionate in Data Science and Data Analytics
 
 ## :pushpin: My Goals
 
@@ -14,12 +14,11 @@
   
 | Skills        | Languages/Tools
 | ------------- |:-------------:|
-| Database Management      | OracleSQL, MySql, MongoDB, PostgreSQL
+| Data Analysis & Reporting Tools      | Power BI, Tableau, SQL, NoSQL, Excel (Macros, Pivot Tables, V-look-up), Google Sheets, PowerPoint
 | Programming Languages    | Python, C++, C, X++
-| Data Science | Pandas, NumPy, Matplotlib, Scikit-learn, Folium, Plotly
-| Web Development        | HTML5, CSS, JavaScript, Node.js, Express.js
-| Operating Systems | Windows, Linux/Unix
-| Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Microsoft Azure, Microsoft Project, Jupyter Notebook, Github
+| Database Management | Oracle 12c, Microsoft SQL Server, MongoDB
+| Programming Languages & Libraries        |  Python, R, UNIX Shell Scripting, Pandas, NumPy, SciPy, Matplotlib, Sickit-learn, Plotly, Tensorflow
+| Development & Collaboration Tools | Microsoft Azure, Jupyter Notebook, Microsoft Visual Studio, VS Code, GitHub, Git, Rstudio
 
 ## :pushpin: Contact Me
 
