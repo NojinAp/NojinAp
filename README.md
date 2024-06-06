@@ -14,11 +14,11 @@
   
 | Skills        | Languages/Tools
 | ------------- |:-------------:|
-| Data Analysis & Reporting Tools      | Power BI, Tableau, SQL, NoSQL, Excel (Macros, Pivot Tables, V-look-up), Google Sheets, PowerPoint
+| Data Analysis & Reporting Tools      | Power BI, Tableau, SQL, NoSQL, Excel (Macros, Pivot Tables, V-look-up), PowerPoint
 | Programming Languages    | Python, C++, C, X++
 | Database Management | Oracle 12c, Microsoft SQL Server, MongoDB
-| Programming Languages & Libraries        |  Python, R, UNIX Shell Scripting, Pandas, NumPy, SciPy, Matplotlib, Sickit-learn, Plotly, Tensorflow
-| Development & Collaboration Tools | Microsoft Azure, Jupyter Notebook, Microsoft Visual Studio, VS Code, GitHub, Git, Rstudio
+| Programming Languages & Libraries        |  Python, R, UNIX Shell Scripting, Pandas, NumPy, SciPy, Matplotlib, Sickit-learn, Plotly
+| Development & Collaboration Tools | Microsoft D365, Microsoft Azure, Jupyter Notebook, Microsoft Visual Studio, VS Code, GitHub, Git, Rstudio
 
 ## :pushpin: Contact Me
 
