@@ -2,18 +2,19 @@
 
 ## :pushpin: Who I Am
 
-* IT Business Analyst based in Toronto
-* Passionate in Data Science and Machine Learning
+* Computer Science BASc at McMaster University
+* Over 2 years of experience in Data Analytics and Software Developement
+* Passionate about Data Science and Machine Learning
 
 ## :pushpin: Tools & Languages I Use
   
 | Skills        | Languages/Tools
 | ------------- |:-------------:|
-| Data Analysis & Reporting Tools      | Power BI, Tableau, SQL, NoSQL, Excel (Macros, Pivot Tables, V-look-up), PowerPoint
+| Data Analysis & Reporting Tools      | Power BI, Tableau, SQL, NoSQL, Excel, R, MATLAB
 | Programming Languages    | Python, C++, C, X++
 | Database Management | Oracle 12c, Microsoft SQL Server, MongoDB
 | Programming Languages & Libraries        |  Python, R, UNIX Shell Scripting, Pandas, NumPy, SciPy, Matplotlib, Sickit-learn, Plotly
-| Development & Collaboration Tools | Microsoft D365, Microsoft Azure, Jupyter Notebook, Microsoft Visual Studio, VS Code, GitHub, Git, Rstudio
+| Development & Collaboration Tools | Microsoft Dynamics 365, Microsoft Azure, Jupyter Notebook, Microsoft Visual Studio, VS Code, GitHub, Git, Rstudio
 
 ## :pushpin: Contact Me
 
