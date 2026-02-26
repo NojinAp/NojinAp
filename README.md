@@ -4,7 +4,7 @@
 
 * Computer Science BASc at McMaster University
 * Over 2 years of experience in Data Analytics and Software Developement
-* Passionate about Data Science and Machine Learning
+* Passionate about Data Science and Data Analysis
 
 ## :pushpin: Tools & Languages I Use
   
