@@ -1,8 +1,8 @@
-# Hi there <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"> </picture> I'm Nozhin!
+# hi <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"> </picture> Nozhin here.
 
-## :pushpin: Who I Am
+## :pushpin: who I am
 
-* Computer Science BASc at McMaster University
+* Honours Computer Science BASc at McMaster University
 * Over 2 years of experience in Data Analytics and Software Developement
 * Passionate about Data Science and Data Analysis
 
@@ -11,9 +11,8 @@
 | Skills        | Languages/Tools
 | ------------- |:-------------:|
 | Data Analysis & Reporting Tools      | Power BI, Tableau, SQL, NoSQL, Excel, R, MATLAB
-| Programming Languages    | Python, C++, C, X++
+| Programming and Mark-up Languages    | Python (Pandas, Numpy, Matplotlib), C++, C, X++, JavaScript, CSS, HTML
 | Database Management | Oracle 12c, Microsoft SQL Server, MongoDB
-| Programming Languages & Libraries        |  Python, R, UNIX Shell Scripting, Pandas, NumPy, SciPy, Matplotlib, Sickit-learn, Plotly
 | Development & Collaboration Tools | Microsoft Dynamics 365, Microsoft Azure, Jupyter Notebook, Microsoft Visual Studio, VS Code, GitHub, Git, Rstudio
 
 ## :pushpin: Contact Me
