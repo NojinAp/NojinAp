@@ -1,6 +1,6 @@
-# hi <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"> </picture> Nozhin here.
+# Hi! Nozhin here.
 
-## :pushpin: who I am
+## :pushpin: Who I am
 
 * Honours Computer Science BASc at McMaster University
 * Over 2 years of experience in Data Analytics and Software Developement
