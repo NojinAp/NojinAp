@@ -1,19 +1,15 @@
-
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=E88B8B&center=true&vCenter=true&width=600&height=55&lines=Hello%2C+World" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A7C7E7&center=true&vCenter=true&width=500&height=35&lines=it's+me%2C+nozhin" />
-
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=100000&color=F6E7A1&center=false&vCenter=true&width=300&height=35&lines=%2F+who+I+am" />
+<img src="assets/title-who.svg" />
 
 - honours Computer Science BASc student at McMaster University
 - 2+ years of experience in Data Engineering & Software Development
 - passionate about in data & ML Ops
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=100000&color=F6E7A1&center=false&vCenter=true&width=400&height=35&lines=%2F+what+I+work+with" />
+<img src="assets/title-work.svg" />
 
 **Data Engineering**
 > `Python` · `PySpark` · `SQL` · `Apache Spark` · `Apache Airflow` · `Pandas` · `NumPy`
@@ -33,7 +29,7 @@
 **Analytics**
 > `Power BI` · `Tableau` · `R` · `MATLAB` · `Excel`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=100000&color=F6E7A1&center=false&vCenter=true&width=250&height=35&lines=%2F+ping+me" />
+<img src="assets/title-ping.svg" />
 
 <p>
   <a href="https://www.linkedin.com/in/nozhin-azarpanah-7510bb210">
