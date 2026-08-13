@@ -6,28 +6,22 @@
 <img src="assets/title-who.svg" />
 
 - honours Computer Science BASc student at McMaster University
-- 2+ years of experience in Data Engineering & Software Development
-- passionate about in data & ML Ops
+- 3+ years of experience in Data Engineering & Software Development
+- passionate about data & ML Ops
 
 <img src="assets/title-work.svg" />
 
-**Data Engineering**
-> `Python` · `PySpark` · `SQL` · `Apache Spark` · `Apache Airflow` · `Pandas` · `NumPy`
+**Languages**
+> `Python` · `JavaScript` · `SQL` · `R` · `C` · `C++`
 
-**Cloud & Infrastructure**
-> `AWS` · `Azure` · `Docker` · `Terraform` · `S3` · `AWS Glue` · `Redshift` · `Lambda` · `Kinesis` · `Data Factory` · `Athena`
+**Cloud & Platforms**
+> `AWS` · `Azure` · `Microsoft SQL Server` · `SharePoint` · `SAP S/4HANA` · `Dynamics 365 F&O`
 
-**ML Ops**
-> `CI/CD` · `Model Deployment` · `ML Pipelines` · `Data Pipelines` · `Jupyter`
+**Frameworks & Libraries**
+> `PySpark` · `Apache Airflow` · `pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `Power BI` · `Excel`
 
-**Software Engineering**
-> `Python` · `C++` · `C` · `JavaScript` · `REST APIs` · `Unit Testing` · `Git` · `GitHub` · `CI/CD`
-
-**Databases**
-> `PostgreSQL` · `Oracle 12c` · `Microsoft SQL Server` · `MongoDB` · `Azure SQL`
-
-**Analytics**
-> `Power BI` · `Tableau` · `R` · `MATLAB` · `Excel`
+**Developer Tools**
+> `Docker` · `REST APIs` · `Unix/Linux` · `Git` · `GitHub` · `CI/CD` · `Jupyter Notebook`
 
 <img src="assets/title-ping.svg" />
 
