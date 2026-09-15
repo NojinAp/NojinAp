@@ -8,6 +8,7 @@
 - honours Computer Science BASc student at McMaster University
 - 3+ years of experience in Data Engineering & Software Development
 - passionate about data & ML Ops
+- check out my website <a href="https://www.nozhin.dev">here</a>
 
 <img src="assets/title-work.svg" />
 
