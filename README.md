@@ -8,15 +8,15 @@
 - honours Computer Science BASc student at McMaster University
 - 3+ years of experience in Data Engineering & Software Development
 - passionate about data & ML Ops
-- check out my website <a href="https://www.nozhin.dev">here</a>
+- check out my portfolio <a href="https://www.nozhin.dev">here</a>
 
 <img src="assets/title-work.svg" />
 
 **Languages**
-> `Python` · `JavaScript` · `SQL` · `R` · `C` · `C++`
+> `Python` ·  `Java` · `JavaScript` · `SQL` · `R` · `C` · `C++`
 
 **Cloud & Platforms**
-> `AWS` · `Azure` · `Microsoft SQL Server` · `SharePoint` · `SAP S/4HANA` · `Dynamics 365 F&O`
+> `AWS` · `Azure` · `Microsoft SQL Server` · `SAP S/4HANA` · `Dynamics 365 F&O`
 
 **Frameworks & Libraries**
 > `PySpark` · `Apache Airflow` · `pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `Power BI` · `Excel`
